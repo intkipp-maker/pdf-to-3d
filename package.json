@@ -1,0 +1,15 @@
+{
+  "name": "pdf-to-3d-converter",
+  "version": "1.0.0",
+  "description": "Convertir des PDF de plans en fichiers 3D STL",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
